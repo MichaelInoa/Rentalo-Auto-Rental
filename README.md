@@ -112,8 +112,9 @@ Microsoft Egde
 ### Scroll designs inspired and used from https://scrollrevealjs.org
 ### https://swiperjs.com/get-started#use-swiper-from-cdn
 
-### The structure of the website and coding guidance is inspired from the Open Sourced Web mastery guide 
-### https://webdesignmastery.github.io/Re..
+### The structure of the website and many coding practices were inspired and can be Refrenced from the OPEN SOURCED, FREE TO USE Web mastery guide.(Link Below)
+### https://github.com/WebDesignMastery/Rental_07-09-24/tree/main
+
 
 
 
