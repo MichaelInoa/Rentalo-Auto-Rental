@@ -42,7 +42,7 @@
 ### In Settings scroll down to GitHub pages which opens in a new page.
 ### From the source section drop-down menu, select the Master Branch
 ### Once the master branch has been selected, the page is automatically refreshed and a display indicates the successful deployment and the link to the address.
-### The website is hosted on GitHub Pages and can be accessed via this Link
+### The website is hosted on GitHub Pages and can be accessed via this Link https://michaelinoa.github.io/Rentalo-Auto-Rental/
 
 
 
@@ -67,7 +67,8 @@
 # Performance:
 ### Tested performance by using Google Lighthouse, Chrome Developer Tools.
 
-# ![Screenshot 2024-11-12 023108](https://github.com/user-attachments/assets/feb55409-5b13-4f42-80ba-e8d82bf99cc4)
+# ![Lighthouse report](https://github.com/user-attachments/assets/547a8322-b0c7-4247-b5bf-cf61b86b5f2e)
+
 
 
 # Browser compatability
